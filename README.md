@@ -10,7 +10,7 @@ Do you like train wrecks?
 
 If you answered yes to any of the above, this mod is for you!
 
-#### Warning
+#### WARNING
 Accidental misuse of this mod will cause train wrecks.
 
 Intentional misuse of this mod will cause bigger train wrecks.
