@@ -24,7 +24,7 @@ Place a magnet signal in front of the block you want the train to enter blindly.
 
 To turn off a magnet signal, place a circuit controlled rail signal in front of it. Magnet signal circuit networks are disabled for performance reasons.
 
-Trains approaching a magnet signal might appear to be manually controlled. To take over manual control of such a train, click the automatic mode button once.
+Trains approaching a magnet signal might appear to be manually controlled. To take over manual control of such a train, turn automatic mode on and off.
 
 ---
 
