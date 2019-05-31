@@ -92,7 +92,7 @@ function on_killed(event)
     -- Clean up any dummy drivers that fell out of a destroyed train
     local pos = event.position
     for _, driver in pairs(game.surfaces[event.surface_index].find_entities_filtered{
-      name = "underground-rail-driver",
+      name = "magnet-signal-driver",
       area = {{pos.x - 10, pos.y - 10}, {pos.x + 10, pos.y + 10}}
     }) do
       driver.destroy()

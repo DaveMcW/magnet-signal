@@ -24,3 +24,4 @@ Trains approaching a magnet signal might appear to be manually controlled. To ta
 
 #### Known issues
 This mod has not been tested for compatibility with other rail mods.
+Pathfinding will likely fail at speeds greater than 300 km/h.
