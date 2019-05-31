@@ -6,13 +6,13 @@ Do you like train wrecks?
 
 If you answered yes to any of the above, this mod is for you!
 
-WARINING:
+#### Warning
 Accidental misuse of this mod will cause train wrecks.
 Intentional misuse of this mod will cause bigger train wrecks.
 
-Instructions:
+#### Instructions
 Place a magnet signal in front of the block you want the train to enter blindly.
 To turn off a magnet signal, place a circuit controlled rail signal in front of it. Magnet signal circuit networks are disabled for performance reasons.
 
-Known issues:
+#### Known issues
 This mod has not been tested for compatibility with other rail mods.
