@@ -1,7 +1,11 @@
 Adds a permanently green rail signal to [Factorio](https://www.factorio.com).
 
+---
+
 Do you need a way to get multiple trains into one block?
+
 Is the safe following distance hurting throughput on your main line?
+
 Do you like train wrecks?
 
 If you answered yes to any of the above, this mod is for you!
