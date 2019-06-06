@@ -1,12 +1,15 @@
 local signal = table.deepcopy(data.raw["rail-signal"]["rail-signal"])
 signal.name = "magnet-signal"
+signal.icon = "__magnet-signal__/graphics/magnet-signal.png"
+signal.icon_size = 32
+signal.icons = nil
 signal.orange_light.color = signal.green_light.color
 signal.red_light.color = signal.green_light.color
 signal.circuit_wire_max_distance = 0
 signal.circuit_wire_connection_points = {}
 signal.circuit_connector_sprites = {}
-signal.animation.filename = "__magnet-signal__/rail-signal.png"
-signal.animation.hr_version.filename = "__magnet-signal__/hr-rail-signal.png"
+signal.animation.filename = "__magnet-signal__/graphics/rail-signal.png"
+signal.animation.hr_version.filename = "__magnet-signal__/graphics/hr-rail-signal.png"
 data:extend{signal}
 
 local item = {
@@ -14,7 +17,7 @@ local item = {
   name = "magnet-signal",
   place_result = "magnet-signal",
   stack_size = 50,
-  icon = "__magnet-signal__/magnet-signal.png",
+  icon = "__magnet-signal__/graphics/magnet-signal.png",
   icon_size = 32,
   subgroup = "transport",
   order = "a[train-system]-d[rail-signal]-magnet",
