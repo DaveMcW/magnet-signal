@@ -9,7 +9,7 @@ signal.circuit_wire_max_distance = 0
 signal.circuit_wire_connection_points = {}
 signal.circuit_connector_sprites = {}
 signal.animation.filename = "__magnet-signal__/graphics/rail-signal.png"
-signal.animation.hr_version.filename = "__magnet-signal__/graphics/hr-rail-signal.png"
+signal.animation.layers[1].hr_version.filename = "__magnet-signal__/graphics/hr-rail-signal.png"
 data:extend{signal}
 
 local item = {
